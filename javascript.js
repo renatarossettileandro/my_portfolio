@@ -16,8 +16,8 @@ function knowlegdepictureout() {
 }
 
 function project1() {
-    document.getElementsByClassName('projeto')[0].style.backgroundImage = "url('image/sitedental-opacidade.png')";
-    document.getElementsByClassName('projeto')[0].innerHTML = "<h1>Dentist clinic study project</h1>";
+    document.getElementsByClassName('projeto')[0].style.backgroundImage = "url('image/sitedental-opacidade-baixa.png')";
+    document.getElementsByClassName('projeto')[0].innerHTML = "<h1>Dentist clinic</h1><p>Project made to practise. Languages used are HTML and CSS.</p>";
 }
 
 function project1out(){
@@ -27,7 +27,7 @@ function project1out(){
 
 function project2() {
     document.getElementsByClassName('projeto2')[0].style.backgroundImage = "url('image/projeto2-opacidade.png')";
-    document.getElementsByClassName('projeto2')[0].innerHTML = "<a href='https://bauhaussistemas.com.br/' target='_blank'><h1>Technology company in Brazil</h1></a>";
+    document.getElementsByClassName('projeto2')[0].innerHTML = "<a href='https://bauhaussistemas.com.br/' target='_blank'><h1>Technology company</h1><p>Job for a Brazilian company, project made with WordPress</p></a>";
 
 }
 
@@ -38,7 +38,7 @@ function project2out(){
 
 function project3() {
     document.getElementsByClassName('projeto3')[0].style.backgroundImage = "url('image/projeto3-opacidade.png')";
-    document.getElementsByClassName('projeto3')[0].innerHTML = "<h1>Scuba club study project</h1>";
+    document.getElementsByClassName('projeto3')[0].innerHTML = "<h1>Scuba club study project</h1><p>Study project to practise HTML and CSS.</p>";
 }
 
 function project3out(){
